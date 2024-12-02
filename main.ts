@@ -1,4 +1,4 @@
-import { ChromaClient, OllamaEmbeddingFunction } from "chromadb";
+import { ChromaClient } from "chromadb";
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
